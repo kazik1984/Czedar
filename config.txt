@@ -1,0 +1,37 @@
+Env|T13
+Database| cgsysadm/cgsysadm_t13@t13bscs
+DB Host| aixtestdb1.unx.t-mobile.pl
+DB Port| 1521
+AIX User | t13bscs
+AIX Host| aixtestdb1.unx.t-mobile.pl
+----------------------------------------
+Env|T12
+Database| cgsysadm/cgsysadm_t12@t12bscs
+DB Host| aixtestdb1.unx.t-mobile.pl
+DB Port| 1521
+AIX User | t12bscs
+AIX Host| aixtestdb1.unx.t-mobile.pl
+-----------------------------------------
+Env|T2
+Database| cgsysadm/cgsysadm_t2@t2bscsdb
+DB Host| aixtestdb2.unx.era.pl
+DB Port| 1521
+AIX User | t2bscs
+AIX Host| aixtestapp1.unx.t-mobile.pl
+-----------------------------------------
+Env|SIT
+Database| cgsysadm/t5bscspwd@t5bscsdb
+DB Host| ichmura-048.unx.t-mobile.pl
+DB Port| 1521
+AIX User | t5bscs
+AIX Host| aixtestapp1.unx.t-mobile.pl
+-----------------------------------------
+Env|T17
+Database| cgsysadm/cgsysadm17@t17bscs
+DB Host| aixclouddb96.unx.t-mobile.pl
+DB Port| 1521
+AIX User | t17bscs
+AIX Host| aixtestapp5.unx.t-mobile.pl
+-----------------------------------------
+Path to PK| D:/pulpit sluzbowy/pkey.ppk
+CDR Path| D:/CDR
